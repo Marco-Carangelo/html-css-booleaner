@@ -23,7 +23,7 @@
     color: #9CD6F4;
 }
 
-.to-the-left {
+.no-margin-left {
     margin-left: 0;
 }
 
@@ -31,4 +31,27 @@
     font-size: smaller;
     font-weight: lighter;
 
+}
+
+.dot-align {
+    padding-left: 15px;
+}
+
+#table-head {
+    line-height: 17px;
+    background-color: #9CD6F4;
+    color: white;
+    text-align: left;
+}
+
+#last-col {
+    width: 50%;
+}
+
+.odd-row {
+    background-color: #DFE5F2;
+}
+
+tbody tr {
+    height: 35px;
 }
