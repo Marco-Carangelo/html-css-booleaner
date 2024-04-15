@@ -4,6 +4,8 @@ body {
 
 .hdr {
     background-color: #9CD6F4;
+    background-image: url(../img/pattern.png);
+
 
 }
 
@@ -15,6 +17,10 @@ body {
 
 #title {
     margin: 45px 0px 0px 0px;
+}
+
+#data {
+    font-size: smaller;
 }
 
 main {
@@ -71,4 +77,9 @@ main {
     text-align: center;
     padding-top: 20px;
     font-size: small;
+}
+
+.container {
+
+    margin: 0px 200px;
 }
