@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .hdr {
     background-color: #9CD6F4;
 
@@ -13,6 +17,10 @@
     margin: 45px 0px 0px 0px;
 }
 
+main {
+    margin: 10px;
+}
+
 #main-head p {
     color: gray;
     margin: 0;
@@ -23,8 +31,8 @@
     color: #9CD6F4;
 }
 
-.no-margin-left {
-    margin-left: 0;
+.no-side-margin {
+    margin: 40px 0px 40px 0px;
 }
 
 #footer-img {
@@ -52,6 +60,15 @@
     background-color: #DFE5F2;
 }
 
-tbody tr {
-    height: 35px;
+#page-footer {
+    background-color: #313A6B;
+    height: 50px;
+
+}
+
+#page-footer div {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: small;
 }
