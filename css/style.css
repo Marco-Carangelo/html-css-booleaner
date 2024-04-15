@@ -22,3 +22,13 @@
 #blue {
     color: #9CD6F4;
 }
+
+.to-the-left {
+    margin-left: 0;
+}
+
+#footer-img {
+    font-size: smaller;
+    font-weight: lighter;
+
+}
