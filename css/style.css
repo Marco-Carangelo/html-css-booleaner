@@ -11,7 +11,7 @@ body {
 
 #booleaner-logo {
     width: 200px;
-    margin: 40px 15px;
+    margin: 40px 0px;
 
 }
 
@@ -33,7 +33,7 @@ main {
 
 }
 
-#blue {
+.author {
     color: #9CD6F4;
 }
 
@@ -48,7 +48,9 @@ main {
 }
 
 .dot-align {
-    padding-left: 15px;
+
+    list-style-position: inside;
+    padding-inline-start: 0;
 }
 
 #table-head {
